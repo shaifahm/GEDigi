@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GEDigiProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ShaifAhmed
+Implementation-Vendor-Id: com.json
+Build-Jdk: 1.8.0
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GEDigiCrawler
+Created-By: Maven Integration for Eclipse
+
